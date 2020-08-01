@@ -1,2 +1,2 @@
 # circle_function
-Calculates Area and perimeter of the circle.
+C program Calculates Area and perimeter of the circle.
